@@ -1,3 +1,4 @@
+# oet
 # Data model
 # some behaviour that I want to implement -> write some __function__
 # this is called data model (double underscore) method
